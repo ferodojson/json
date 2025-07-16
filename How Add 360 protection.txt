@@ -1,0 +1,14 @@
+install apk wall vip.apk 
+
+protect Root & 360 
+
+output in apkwall folder 
+
+then 
+optimize apk by mt manager default settings 
+
+resources confused by mix algorithm and ferodo name 
+
+copy 360 on protect folder to libs 
+
+end 
